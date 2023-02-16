@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #ccc;
+	color: rgb(0,0,0);
+	font-family: "Courier New", Courier, namespace;
+	text-align: center;
+}
+
+fieldset {
+	margin: 183px auto 0;
+	width: 300px;
+	border: 1px solid #000CBA;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+legend {
+	background-color: #ccc;
+	border: 2px solid #000CBA;
+	border-radius: 10px;
+	padding: 10px 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+input {
+	border: 1px solid #000CBA;
+}
